@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Inventory App</h1>
+      <h1 className="text-3xl font-bold underline text-cyan-400">Inventory App</h1>
     </div>
   );
 }
